@@ -1,6 +1,5 @@
 package org.anch.arithmetics.service;
 
-
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.anch.arithmetics.library.ArithmeticExpression;
